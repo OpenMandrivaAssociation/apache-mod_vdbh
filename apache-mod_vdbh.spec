@@ -22,7 +22,6 @@ BuildRequires:	apache-devel >= 2.2.0
 BuildRequires:	mysql-devel
 BuildRequires:	file
 Epoch:		1
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 mod_vdbh is an Apache Web Server module allowing mass virtual
